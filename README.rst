@@ -10,6 +10,17 @@ References
 
 |
 
+
+Action
+~~~~~~~~~~~~~~
+
+* In
+  * Download all via terminal to local for remote working
+  * Confirm files execute as they should
+  * Confirm can push back up if needed
+  
+
+
 Links
 ~~~~~~~~~~~~~~
 
