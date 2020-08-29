@@ -21,7 +21,7 @@ Action
 * how to create random synthetic data quickly with sklearn make_classification
     
 
-
+<br>
 
 Action II
 ~~~~~~~~~~~~~~
@@ -30,7 +30,7 @@ Action II
     
 
 
-
+<br>
 
 Links
 ~~~~~~~~~~~~~~
